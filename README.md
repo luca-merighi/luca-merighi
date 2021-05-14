@@ -2,3 +2,4 @@
 - 🌱 I’m currently learning HTML, CSS, JS, React, ReactNative
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me whalesflying5@gmail.com
+- Linkedin: https://www.linkedin.com/in/luca-merighi-917021212/

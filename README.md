@@ -4,10 +4,13 @@
   <img src="./waving.gif">
   <img src="https://64.media.tumblr.com/5376260b1048b7b46b45b0cbd4080c6a/b78a1d1892f8c437-32/s400x600/5cf3083251a1ac4c7887549e460ae1a1aee1fd7d.gifv">
 </div>
-- Certificado pela @**Cod3rCursos**
-- Atualmente aluno na @**Rocketseat** 🚀
-- Estudante de Frontend
-- Nas horas vagas, edito vídeos, estudo música e mato chefes no Dark Souls 🔥
+
+<ul>
+  <li>Certificado pela @**Cod3rCursos**</li>
+  <li>Atualmente aluno na @**Rocketseat** 🚀</li>
+  <li>Estudante de Frontend</li>
+  <li>Nas horas vagas, edito vídeos, estudo música e mato chefes no Dark Souls 🔥</li>
+</ul>
 
 ### Linguagens e Ferramentas que uso no meu dia-a-dia:
 <div>

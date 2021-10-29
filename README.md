@@ -10,7 +10,7 @@
 ### Linguagens e Ferramentas que uso no meu dia-a-dia:
 
 ### Meu Certificado de mais orgulho  😄📄
-<img src="certificado-webmoderno-cod3r.jpg">
+<img src="certificado-webmoderno-cod3r.jpg" width="600px" height="auto">
 
 ##### Contato: 
   - **Email:** whalesflying5@gmail.com

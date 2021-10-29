@@ -9,7 +9,7 @@
 
 ### Linguagens e Ferramentas que uso no meu dia-a-dia:
 
-### Meu Certificado de mais orgulho 📄
+### Meu Certificado de mais orgulho  😄📄
 <img src="certificado-webmoderno-cod3r.jpg">
 
 ##### Contato: 

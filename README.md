@@ -9,6 +9,8 @@
 
 ### Linguagens e Ferramentas que uso no meu dia-a-dia:
 
+### Meu Currículo 📄
+
 ##### Contato: 
   - **Email:** whalesflying5@gmail.com
 

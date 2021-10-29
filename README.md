@@ -1,6 +1,8 @@
-# 👋 Hi, my name is <strong>Luca Merighi</strong>
+# 👋 Oieee, meu nome é <strong>Luca Merighi</strong> :D
 
-### Languages and Tools:
+
+
+### Linguagens e Ferramentas:
 
 ##### 📫 How to reach me: 
   - **Email:** whalesflying5@gmail.com

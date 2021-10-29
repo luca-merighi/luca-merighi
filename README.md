@@ -3,7 +3,9 @@
 <img src="./waving.gif">
 
 - Certificado pela @**Cod3rCursos**
-- Atualmente estudante na @**Rocketseat**
+- Atualmente aluno na @**Rocketseat** 🚀
+- Estudante de Frontend
+- Nas horas vagas, mato chefes no Dark Souls 🔥
 
 ### Linguagens e Ferramentas que uso no meu dia-a-dia:
 

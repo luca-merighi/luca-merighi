@@ -1,7 +1,9 @@
 # 👋 Oieee, meu nome é <strong>Luca Merighi</strong> :D
 
-<img src="./waving.gif">
-
+<div>
+  <img src="./waving.gif">
+  <img src="https://64.media.tumblr.com/5376260b1048b7b46b45b0cbd4080c6a/b78a1d1892f8c437-32/s400x600/5cf3083251a1ac4c7887549e460ae1a1aee1fd7d.gifv">
+</div>
 - Certificado pela @**Cod3rCursos**
 - Atualmente aluno na @**Rocketseat** 🚀
 - Estudante de Frontend
@@ -16,7 +18,7 @@
   <img src="https://cdn-icons-png.flaticon.com/64/5968/5968705.png">
 </div>
 
-### Meu Certificado de mais orgulho  😄📄
+### Meu Certificado de mais orgulho  😄📄 
 <img src="certificado-webmoderno-cod3r.jpg" width="600px" height="auto">
 
 ##### Contato: 

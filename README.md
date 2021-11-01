@@ -11,11 +11,10 @@
 
 ### Linguagens e Ferramentas que uso no meu dia-a-dia:
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/64/919/919827.png">
-  <img src="https://cdn-icons-png.flaticon.com/64/919/919826.png">
-  <img src="https://cdn-icons-png.flaticon.com/64/919/919828.png">
-  <img src="https://cdn-icons-png.flaticon.com/64/919/919851.png">
-  <img src="https://cdn-icons-png.flaticon.com/64/5968/5968705.png">
+  <img src="./GHIcons/html.png">
+  <img src="./GHIcons/css.png">
+  <img src="./GHIcons/js.png">
+  <img src="./GHIcons/react.png">
 </div>
 
 ### Meu Certificado de mais orgulho  😄📄 

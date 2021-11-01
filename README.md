@@ -21,6 +21,7 @@
 <img src="certificado-webmoderno-cod3r.jpg" width="600px" height="auto">
 
 ### Contato: 
+<p>@whalesflying5@gmail.com</p>
 <a href="https://www.linkedin.com/in/luca-merighi-917021212" target="_blank">
   <img src="./GHIcons/linkedin.png">
 </a>

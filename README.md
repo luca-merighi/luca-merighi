@@ -1,13 +1,10 @@
 # 👋 Oieee, meu nome é <strong>Luca Merighi</strong> :D
 
-<div>
-  <img src="./waving.gif">
-  <img src="https://64.media.tumblr.com/5376260b1048b7b46b45b0cbd4080c6a/b78a1d1892f8c437-32/s400x600/5cf3083251a1ac4c7887549e460ae1a1aee1fd7d.gifv">
-</div>
+<img src="./waving.gif">
 
 <ul>
-  <li>Certificado pela @**Cod3rCursos**</li>
-  <li>Atualmente aluno na @**Rocketseat** 🚀</li>
+  <li>Certificado pela @Cod3rCursos</li>
+  <li>Atualmente aluno no plano Ultimate da @Rocketseat 🚀</li>
   <li>Estudante de Frontend</li>
   <li>Nas horas vagas, edito vídeos, estudo música e mato chefes no Dark Souls 🔥</li>
 </ul>

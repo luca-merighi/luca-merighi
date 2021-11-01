@@ -9,7 +9,7 @@
   <li>Nas horas vagas, edito vídeos, estudo música e mato chefes no Dark Souls 🔥</li>
 </ul>
 
-### Linguagens e Ferramentas que uso no meu dia-a-dia:
+### Linguagens que uso no meu dia-a-dia:
 <div>
   <img src="./GHIcons/html.png">
   <img src="./GHIcons/css.png">

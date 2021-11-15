@@ -1,6 +1,6 @@
 # 👋 Oieee, meu nome é <strong>Luca Merighi</strong> :D
 
-<img src="./waving.gif">
+<img src="./waving.gif" width="1000px">
 
 <ul>
   <li>Certificado pela @Cod3rCursos</li>

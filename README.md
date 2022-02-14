@@ -14,7 +14,6 @@
   <img src="./GHIcons/html.png">
   <img src="./GHIcons/css.png">
   <img src="./GHIcons/js.png">
-  <img src="./GHIcons/react.png">
 </div>
 
 ### Meu Certificado de mais orgulho  😄📄 

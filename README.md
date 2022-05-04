@@ -9,11 +9,9 @@
   <li>Nas horas vagas, edito vídeos, estudo música e mato chefes no Dark Souls 🔥</li>
 </ul>
 
-### Linguagens que uso no meu dia-a-dia:
+### Linguagens e Tecnologias que uso no meu dia-a-dia:
 <div>
-  <img src="./GHIcons/html.png">
-  <img src="./GHIcons/css.png">
-  <img src="./GHIcons/js.png">
+  <img src="https://github.com/luca-merighi/Techs-Icons/blob/main/Techs.png?raw=true" />
 </div>
 
 ### Meu Certificado de mais orgulho  😄📄 
